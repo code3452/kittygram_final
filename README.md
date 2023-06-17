@@ -7,7 +7,7 @@ https://kitthlm.ddns.net/
 фотографий котов, а также присваивания достижений.
 ### Технологии
 Python 3.9,
-Django 3.12.4,
+Django 3.2.3,
 Django REST framework, 
 React
 ### Запуск проекта в dev-режиме
