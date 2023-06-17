@@ -30,7 +30,7 @@ docker compose exec backend python manage.py collectstatic
 ```
 docker compose exec backend cp -r /app/collected_static/. /backend_static/static/
 ```
-- По адресу http://127.0.0.1:9000/ сайт будет доступен
+- По адресу http://127.0.0.1:9000/ сайт будет доступен.
 
 ### Автор
 Прибавкин Дмитрий (https://t.me/i398667037)
